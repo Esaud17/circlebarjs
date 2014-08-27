@@ -4,7 +4,7 @@
 
 $.fn.circlebar = function circlebar(Porcent)
 {
-	ObjCanvasId=($(this).selector);
+	ObjCanvasId=($(this).attr("id"));
       var struct = 
       {
 
