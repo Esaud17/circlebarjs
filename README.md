@@ -17,6 +17,6 @@ or using jquery.circlebar.js
 
 $(document).ready(function(){
 				
-				$("grafo").circlebar(80).draw();
+				$("id").circlebar(80).draw();
 
 			});
