@@ -1,5 +1,5 @@
 /*
-* Navo. lib jquery.circlebars.js copyright 2014 no use this code in your porjects.
+* Navo. lib jquery.circlebars.js copyright 2014 
 */
 
 $.fn.circlebar = function circlebar(Porcent)

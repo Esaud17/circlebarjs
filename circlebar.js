@@ -1,5 +1,5 @@
 /*
-* Navo. lib circlebars.js copyright 2014 no use this code in your porjects.
+* Navo. lib circlebars.js copyright 2014 
 */
 
 function circlebar(ObjCanvasId)
