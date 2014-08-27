@@ -1,4 +1,4 @@
-progresscircle
+progress circlebar.js
 ==============
 
 progress circle is a bar to chek progress ,it is easy to implement just need add this ons and implemention new instance the circlebarr
